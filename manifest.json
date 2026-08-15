@@ -1,17 +1,15 @@
 [
   {
-    "manifestVersion": 2,
-    "deprecated": false,
+    "id": "hayase.extension.subtitle-search-engine-es",
     "name": "Subtitle Search Engine ES",
-    "description": "Busca subtítulos en español para episodios de anime.",
-    "id": "subtitle-search-engine-es",
     "version": "1.0.0",
     "type": "subtitle",
     "accuracy": "medium",
-    "icon": "https://subtitles.website/favicon.ico",
     "media": "sub",
-    "languages": ["ES"],
-    "code": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/extension.js",
-    "rateLimit": 2
+    "languages": [
+      "ES"
+    ],
+    "icon": "https://subtitles.website/favicon.ico",
+    "code": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/extension.js"
   }
 ]
