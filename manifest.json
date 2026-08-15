@@ -11,9 +11,8 @@
     "icon": "https://subtitles.website/favicon.ico",
     "media": "sub",
     "url": "aHR0cHM6Ly9zdWJ0aXRsZXMud2Vic2l0ZQ==",
-    "languages": [
-      "ES"
-    ],
+    "languages": ["ES"],
+    "update": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/manifest.json",
     "code": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/extension.js",
     "rateLimit": 2
   }
