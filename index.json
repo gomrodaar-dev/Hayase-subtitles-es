@@ -1,0 +1,17 @@
+[
+  {
+    "id": "hayase.extension.subtitle-search-engine-es",
+    "name": "Subtitle Search Engine ES",
+    "version": "1.0.0",
+    "type": "subtitle",
+    "accuracy": "medium",
+    "ratio": 0,
+    "media": "sub",
+    "languages": [
+      "ES"
+    ],
+    "icon": "https://subtitles.website/favicon.ico",
+    "update": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/index.json",
+    "code": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/extension.js"
+  }
+]
