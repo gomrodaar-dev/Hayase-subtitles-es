@@ -14,8 +14,8 @@
     "languages": [
       "ES"
     ],
-    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-subtitles-es/main/manifest.json",
-    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-subtitles-es/main/extension.js",
+    "update": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/manifest.json",
+    "code": "https://raw.githubusercontent.com/gomrodaar-dev/hayase-subtitles-es/main/extension.js",
     "rateLimit": 2
   }
 ]
